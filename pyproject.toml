@@ -1,6 +1,6 @@
 [project]
 name = "fakename-scraper"
-version = "0.1.0"
+version = "0.1.1"
 description = "CLI tool to scrape fake identities from fakenamegenerator.com"
 requires-python = ">=3.10"
 license = "MIT"
